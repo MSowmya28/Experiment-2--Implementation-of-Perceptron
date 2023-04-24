@@ -116,3 +116,6 @@ plt.show()
 ![output](./nn2.2.png)
 ![output](./nn2.3.png)
 ![output](./nn2.4.png)
+
+## RESULT:
+Thus a perceptron for classification is implemented using python.
